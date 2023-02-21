@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 32px;
+}
+li{
+  list-style-type: disc !important;
+  color: red;
+  padding-left: 35px;
+}
